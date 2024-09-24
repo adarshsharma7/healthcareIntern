@@ -18,7 +18,7 @@ A simple, responsive React web application to manage a list of healthcare servic
 
 ## Demo
 
-[Live Demo](#)
+https://healthcare-gamma-orpin.vercel.app/
 
 ---
 
