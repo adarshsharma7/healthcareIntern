@@ -30,6 +30,12 @@ https://healthcare-gamma-orpin.vercel.app/
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+---
+
 ## Installation and Setup Instructions
 
 ### Step 1: Clone the Repository
@@ -40,7 +46,5 @@ To clone this project, open your terminal and run:
 git clone https://github.com/yourusername/healthcare-services.git
 cd healthcare-services
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
